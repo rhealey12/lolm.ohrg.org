@@ -13,6 +13,8 @@
   body
 }
 
+#set document(title: "The Language of Language Machines")
+
 #show: template
 
 - #term("llm", "./llm.html", status: "drafted")
